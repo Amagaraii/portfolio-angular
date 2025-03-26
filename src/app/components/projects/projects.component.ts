@@ -23,30 +23,22 @@ export class ProjectsComponent {
         image: 'assets/X.png',
         link: 'https://github.com/Amagaraii/spring_project'
       },
-      {
-        title: '',
-        description: '',
-        image: 'https://via.placeholder.com/300x200',
-        link: '#'
-      },
-      {
-        title: '',
-        description: '',
-        image: 'https://via.placeholder.com/300x200',
-        link: '#'
-      },
-      {
-        title: '',
-        description: '',
-        image: 'https://via.placeholder.com/300x200',
-        link: '#'
-      },
-      {
-        title: '',
-        description: '',
-        image: 'https://via.placeholder.com/300x200',
-        link: '#'
-      }
     ];
+
+    projects_pro = [
+      {
+        title: 'Pardawan',
+        description: "Site pour une entreprise de formation et d'alternance. En angular et tailwindcss et springboot.",
+        image: 'https://www.fede.education/wp-content/uploads/2024/02/LOGO-PARDAWAN.jpg',
+        link: 'https://pardawan.com/#/'
+      },
+      {
+        title: '',
+        description: '',
+        image: '',
+        link: ''
+      },
+    ];
+
 
 }

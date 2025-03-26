@@ -32,12 +32,6 @@ export class ProjectsComponent {
         image: 'https://www.fede.education/wp-content/uploads/2024/02/LOGO-PARDAWAN.jpg',
         link: 'https://pardawan.com/#/'
       },
-      {
-        title: '',
-        description: '',
-        image: '',
-        link: ''
-      },
     ];
 
 
